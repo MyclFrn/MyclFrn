@@ -1,6 +1,6 @@
 <div align="center">
 
-[![logo-url]]
+![][logo-url]
 
   **🐊 S0bek in HTB, Pentester, Ethical Hacker and Developer for the love of challenges 🐊**  
 
