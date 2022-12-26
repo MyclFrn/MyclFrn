@@ -10,7 +10,7 @@
 
 </div>
 
-[![][banner-url]]
+![][banner-url]
 
 <img align='right' src='https://media4.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif' width='120'>
   
