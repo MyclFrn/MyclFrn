@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [linked]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white
 [in-url]: https://www.linkedin.com/in/m4yc0lfrn
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/logo.png
+[logo-url]: https://github.com/MyclFrn/MyclFrn/blob/main/Logo.png
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/cards.png
 [C]: https://badgen.net/badge/C/High/green
 [C++]: https://badgen.net/badge/C++/Medium/yellow
