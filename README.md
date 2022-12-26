@@ -16,13 +16,19 @@
   
 # Languages
 
-![][C] ![][PHP] ![][Visual] ![][Python] ![][Bash] ![][SQL] ![][C++] ![][Java] ![][JavaScript] ![][GraphQL] ![][NoSQL] ![][R] ![][Golang] ![][Perl] ![][Ruby]
+![][C] ![][PHP] ![][Visual] ![][Python] ![][Bash] ![][SQL] ![][GraphQL]
+
+![][C++] ![][Java] ![][JavaScript] ![][R]
+
+![][NoSQL]
+
+![][Golang] ![][Perl] ![][Ruby]
 
 <!---
 MyclFrn/MyclFrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[linked]: https://badgen.net/badge/Linked/In/blue
+[linked]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white
 [in-url]: https://www.linkedin.com/in/m4yc0lfrn
 [logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/logo.png
 [banner-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/cards.png
